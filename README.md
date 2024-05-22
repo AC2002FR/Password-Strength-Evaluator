@@ -16,7 +16,7 @@ Password Strength Evaluator is an interactive tool that allows users to check th
 - pip (Python package installer)
 
 ## Installation
-1. Clone the repository:  ```bash `git clone https://github.com/AC2002FR/password-strength-evaluator.git` ```
+1. Clone the repository:  ```bash git clone https://github.com/AC2002FR/password-strength-evaluator.git ```
 2. Navigate to the project directory: `cd password-strength-evaluator`
 3. Install the required packages: `pip install -r requirements.txt`
 
