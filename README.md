@@ -20,25 +20,28 @@ Password Strength Evaluator is an interactive tool that allows users to check th
    ```sh
    git clone https://github.com/AC2002FR/password-strength-evaluator.git
    ```
-2. Navigate to the project directory:
+2. Navigate to the project directory :
    ```sh
    cd password-strength-evaluator
    ```
-3. Install the required packages:
+3. Install the required packages :
    ```sh
    pip install -r requirements.txt`
    ```
 
 ## Usage
-1. Run the Flask application: `
-``sh
+1. Run the Flask application : `
+```sh
 python app.py
-``
-5. Open your web browser and go to `http://127.0.0.1:5000`
-6. Enter a password to check its strength and receive suggestions for improvement.
+```
+2. Open your web browser and go to
+```sh 
+http://127.0.0.1:5000
+```
+3. Enter a password to check its strength and receive suggestions for improvement.
 
 ## Contributing
-Contributions are welcome! Please fork this repository and submit a pull request.
+Contributions are welcome ! Please fork this repository and submit a pull request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
