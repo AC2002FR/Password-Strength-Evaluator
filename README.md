@@ -31,13 +31,13 @@ Password Strength Evaluator is an interactive tool that allows users to check th
 
 ## Usage
 1. Run the Flask application : `
-```sh
-python app.py
-```
+   ```sh
+   python app.py
+   ```
 2. Open your web browser and go to
-```sh 
-http://127.0.0.1:5000
-```
+   ```sh 
+   http://127.0.0.1:5000
+   ```
 3. Enter a password to check its strength and receive suggestions for improvement.
 
 ## Contributing
