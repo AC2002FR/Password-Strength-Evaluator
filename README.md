@@ -16,12 +16,15 @@ Password Strength Evaluator is an interactive tool that allows users to check th
 - pip (Python package installer)
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository :
    ```sh
    git clone https://github.com/AC2002FR/password-strength-evaluator.git
    ```
-3. Navigate to the project directory: `cd password-strength-evaluator`
-4. Install the required packages: `pip install -r requirements.txt`
+3. Navigate to the project directory:
+   ```sh
+    `cd password-strength-evaluator`
+   ```
+5. Install the required packages: `pip install -r requirements.txt`
 
 ## Usage
 1. Run the Flask application: `python app.py`
