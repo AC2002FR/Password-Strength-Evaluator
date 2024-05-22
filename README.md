@@ -17,7 +17,7 @@ Password Strength Evaluator is an interactive tool that allows users to check th
 
 ## Installation
 1. Clone the repository:
-   ```bash
+   ```sh
    git clone https://github.com/AC2002FR/password-strength-evaluator.git
    ```
 3. Navigate to the project directory: `cd password-strength-evaluator`
